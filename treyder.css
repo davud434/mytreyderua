@@ -1,0 +1,37 @@
+body{
+	background-image: url(c40211.jpg)
+}
+.tr {
+	color:white;
+	font-size:50px;
+	margin-left:78px;
+	margin-top:30px;
+	text-shadow:2px 2px 3px blue;
+}
+.ma{
+	color:white;
+	font-size:44px;
+	margin-left:78px;
+	margin-top:10px;
+	text-shadow:1px 1px 3px orange;
+}
+a{
+	color:white;
+	font-size:60px;
+	margin-left:338px;
+	text-shadow:3px 4px 7px red;
+}
+.photo{
+	margin-top:145px;
+}
+@media screen and (max-width:1200px){
+}
+@media screen and (max-width:998px){
+	font-size:40px;
+}
+@media screen and (max-width:768px){
+	font-size:36px;
+}
+@media screen and (max-width:576px){
+	
+}
